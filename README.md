@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/danielma-tic-fillout-mcp-server-badge.png)](https://mseep.ai/app/danielma-tic-fillout-mcp-server)
+
 # Fillout.io MCP Server
 
 MCP Server for the Fillout.io API, enabling form management, response handling, and analytics.
